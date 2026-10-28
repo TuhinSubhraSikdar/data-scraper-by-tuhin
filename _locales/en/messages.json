@@ -1,0 +1,703 @@
+{
+  "optInSharedDataBrowsingTitle": {
+    "message": "Site Matching Data"
+  },
+  "optInSharedDataAiTitle": {
+    "message": "AI Data"
+  },
+  "optInSharedDataAdsTitle": {
+    "message": "Page Interaction Data"
+  },
+  "optInSharedConsentTerms": {
+    "message": "I reviewed the {{terms}} and understand how Data Scraper works."
+  },
+  "optInSharedConsentTermsLinkText": {
+    "message": "usage terms"
+  },
+  "optInSharedConsentRequired": {
+    "message": "Required"
+  },
+  "optInSharedConsentTermsError": {
+    "message": "Review the terms card and check the confirmation box to continue."
+  },
+  "optInPopupTncRequiredTitle": {
+    "message": "One quick review before you start"
+  },
+  "optInPopupTncRequiredAction": {
+    "message": "Open setup review"
+  },
+  "optInSharedPrivacyLinkText": {
+    "message": "Privacy Policy"
+  },
+  "optInSharedConsentChooseAll": {
+    "message": "Select optional features"
+  },
+  "optInSharedConsentReadAll": {
+    "message": "Expand details"
+  },
+  "optInSharedConsentShowLess": {
+    "message": "Show less"
+  },
+  "optInSharedAgree": {
+    "message": "Confirm and continue"
+  },
+  "optInSharedDisagree": {
+    "message": "Use basic scraper"
+  },
+  "optInSharedDisagreeModalTitle": {
+    "message": "Continue with the basic scraper?"
+  },
+  "optInSharedDisagreeModalBody": {
+    "message": "Table detection and exports will still work. Optional presets and site badges will remain disabled until you enable them in Settings."
+  },
+  "optInSharedDisagreeModalContinue": {
+    "message": "Continue with basic scraper"
+  },
+  "optInSharedDisagreeModalEnable": {
+    "message": "Review optional features"
+  },
+  "optInSharedDisagreeModalGoBack": {
+    "message": "Go back and enable"
+  },
+  "optInSharedDisagreeModalClose": {
+    "message": "Close"
+  },
+  "optInOptionsSharedWelcomeTo": {
+    "message": "Meet your "
+  },
+  "optInOptionsSharedWelcomeIds": {
+    "message": "Data Scraper by Tuhin"
+  },
+  "optInOptionsWelcomeTitle": {
+    "message": "Welcome to"
+  },
+  "optInOptionsWelcomeBrand": {
+    "message": "Data Scraper by Tuhin"
+  },
+  "optInOptionsWelcomeSubtitle": {
+    "message": "Turn messy pages into clean data"
+  },
+  "optInOptionsWelcomeBody": {
+    "message": "Detect tables and repeating lists, preview the result, then export to CSV or Excel. Use the comparison slider to see exactly what the scraper captures."
+  },
+  "optInOptionsWelcomeCta": {
+    "message": "Review setup"
+  },
+  "optInOptionsWelcomeSlider": {
+    "message": "Drag to compare the website and the extracted table"
+  },
+  "optInOptionsBadgesSubtitle": {
+    "message": "Find scrape-ready pages"
+  },
+  "optInOptionsBadgesBody": {
+    "message": "Optional site badges help identify pages with structured lists and tables before you open them."
+  },
+  "optInOptionsBadgesPreview": {
+    "message": "Search results where Data Scraper by Tuhin badges highlight the sites worth scraping"
+  },
+  "optInOptionsBadgesTooltip": {
+    "message": "This site works well with "
+  },
+  "optInOptionsBadgesQuery": {
+    "message": "wireless headphones"
+  },
+  "optInOptionsBadgesResultTitleAmazon": {
+    "message": "Wireless Headphones and Accessories"
+  },
+  "optInOptionsBadgesResultSnippetAmazon": {
+    "message": "Browse a structured catalog of products, prices, ratings, and availability..."
+  },
+  "optInOptionsBadgesResultTitleBestBuy": {
+    "message": "Compare Wireless Headphones"
+  },
+  "optInOptionsBadgesResultSnippetBestBuy": {
+    "message": "Compare specifications and prices in a clean, repeating product list..."
+  },
+  "optInOptionsBadgesResultTitleVerge": {
+    "message": "A Practical Wireless Headphone Guide"
+  },
+  "optInOptionsBadgesResultSnippetVerge": {
+    "message": "A structured guide with models, categories, ratings, and key features..."
+  },
+  "optInOptionsProfileSubtitle": {
+    "message": "AI Working profile"
+  },
+  "optInOptionsProfileBody": {
+    "message": "Your own context, built automatically - so any AI tool understands your business from the start."
+  },
+  "optInOptionsProfilePreview": {
+    "message": "Your AI Work Profile card building up, then handing its context off to a chat with an AI tool"
+  },
+  "optInOptionsProfileHeaderTitle": {
+    "message": "Your AI Work Profile"
+  },
+  "optInOptionsProfileHeaderSubtitle": {
+    "message": "Auto-generated from your recent activity"
+  },
+  "optInOptionsProfileWorkflowsLabel": {
+    "message": "Recurring workflows"
+  },
+  "optInOptionsProfileWorkflow1": {
+    "message": "Product research"
+  },
+  "optInOptionsProfileWorkflow2": {
+    "message": "Supplier sourcing"
+  },
+  "optInOptionsProfileWorkflow3": {
+    "message": "Price tracking"
+  },
+  "optInOptionsProfileToolsLabel": {
+    "message": "Tools & Platforms"
+  },
+  "optInOptionsProfileTool1": {
+    "message": "Shopify"
+  },
+  "optInOptionsProfileTool2": {
+    "message": "AliExpress"
+  },
+  "optInOptionsProfileTool3": {
+    "message": "Amazon"
+  },
+  "optInOptionsProfileTool4": {
+    "message": "PayPal"
+  },
+  "optInOptionsProfileProgress": {
+    "message": "Profile 100% complete"
+  },
+  "optInOptionsProfileProgressValue": {
+    "message": "100%"
+  },
+  "optInOptionsProfileProgress0": {
+    "message": "0%"
+  },
+  "optInOptionsProfileProgress25": {
+    "message": "25%"
+  },
+  "optInOptionsProfileProgress50": {
+    "message": "50%"
+  },
+  "optInOptionsProfileProgress75": {
+    "message": "75%"
+  },
+  "optInOptionsProfilePromptTitle": {
+    "message": "Generated Prompt"
+  },
+  "optInOptionsProfilePromptCopy": {
+    "message": "Copy"
+  },
+  "optInOptionsProfilePromptBody": {
+    "message": "Here is context about me to personalize your responses:\n• Work: I run a dropshipping business\n• Tasks: product research, supplier sourcing\n• Tools: Shopify, AliExpress, Amazon\nUse this context in your responses."
+  },
+  "optInOptionsProfileChatReply": {
+    "message": "Got it! I understand you run a dropshipping business..."
+  },
+  "optInOptionsProfileChatPlaceholder": {
+    "message": "Type a message..."
+  },
+  "optInOptionsProfileChatSend": {
+    "message": "Send"
+  },
+  "optInOptionsCarousel": {
+    "message": "Data Scraper by Tuhin capabilities"
+  },
+  "optInOptionsCarouselPrev": {
+    "message": "Show previous capability"
+  },
+  "optInOptionsCarouselNext": {
+    "message": "Show next capability"
+  },
+  "optInOptionsCarouselGoTo": {
+    "message": "Show $CAPABILITY$",
+    "placeholders": {
+      "capability": {
+        "content": "$1",
+        "example": "Smart Site Badges"
+      }
+    }
+  },
+  "optInOptionsCarouselSlide": {
+    "message": "$POSITION$ of $TOTAL$",
+    "placeholders": {
+      "position": {
+        "content": "$1",
+        "example": "2"
+      },
+      "total": {
+        "content": "$2",
+        "example": "2"
+      }
+    }
+  },
+  "optInOptionsAllSetTitle": {
+    "message": "Your scraper is ready"
+  },
+  "optInOptionsAllSetBody": {
+    "message": "Your current setup is saved. Open any page with a table or repeating list to begin extracting data."
+  },
+  "optInOptionsAllSetBodyOutro": {
+    "message": "Preview first, refine the columns, then export when the data looks right."
+  },
+  "optInOptionsAllSetClose": {
+    "message": "Close"
+  },
+  "optInOptionsSuccessTitle": {
+    "message": "Setup complete"
+  },
+  "optInOptionsSuccessBody": {
+    "message": "Open a page containing the data you need, launch Data Scraper, review the detected table, and choose an export format. Pin the extension for faster access."
+  },
+  "optInOptionsSuccessCta": {
+    "message": "Start scraping"
+  },
+  "optInOptionsSuccessPreview": {
+    "message": "A browser tutorial showing how to pin Data Scraper by Tuhin to the toolbar and open it"
+  },
+  "optInOptionsSuccessTabLabel": {
+    "message": "Google Search"
+  },
+  "optInOptionsSuccessAddressBar": {
+    "message": "google.com/search?q=buy+iphone"
+  },
+  "optInOptionsSuccessQuery": {
+    "message": "buy iphone"
+  },
+  "optInOptionsSuccessTabAll": {
+    "message": "All"
+  },
+  "optInOptionsSuccessTabShopping": {
+    "message": "Shopping"
+  },
+  "optInOptionsSuccessTabImages": {
+    "message": "Images"
+  },
+  "optInOptionsSuccessTabNews": {
+    "message": "News"
+  },
+  "optInOptionsSuccessExtensionsTitle": {
+    "message": "Extensions"
+  },
+  "optInOptionsSuccessFullAccess": {
+    "message": "Full access"
+  },
+  "optInOptionsSuccessManageExtensions": {
+    "message": "Manage extensions"
+  },
+  "optInOptionsSuccessRetryTable": {
+    "message": "Try another table"
+  },
+  "optInOptionsSuccessLocateNext": {
+    "message": "Locate \"Next\" btn"
+  },
+  "optInOptionsSuccessStartCrawling": {
+    "message": "Start crawling"
+  },
+  "optInOptionsSuccessDownloadCsv": {
+    "message": "↓ CSV"
+  },
+  "optInOptionsSuccessDownloadXlsx": {
+    "message": "↓ XLSX"
+  },
+  "optInOptionsSuccessCopyAll": {
+    "message": "Copy all"
+  },
+  "optInOptionsSuccessStats": {
+    "message": "Pages: 1   Rows: 6   Time: 0.4s"
+  },
+  "optInOptionsSuccessReadyBanner": {
+    "message": "✓ Ready to download — pick a format"
+  },
+  "optInOptionsSuccessStep1": {
+    "message": "Click Extensions"
+  },
+  "optInOptionsSuccessStep2": {
+    "message": "Pin to Toolbar"
+  },
+  "optInOptionsSuccessStep3": {
+    "message": "Open Extension"
+  },
+  "optInPopupSharedTitlePart1": {
+    "message": "New features."
+  },
+  "optInPopupSharedTitlePart2": {
+    "message": " Better results."
+  },
+  "optInPopupSharedFooter": {
+    "message": "{{terms}} & {{privacy}}"
+  },
+  "optInPopupSharedTermsLinkText": {
+    "message": "Terms"
+  },
+  "optInPopupSharedPrivacyLinkText": {
+    "message": "Privacy Policy"
+  },
+
+  "optInOptionsUsIntro": {
+    "message": "Optional presets and site badges use limited browsing context to match the current page with useful extraction patterns. Review each category below and choose what you want to enable:"
+  },
+  "optInOptionsUsDataBrowsingBody": {
+    "message": " - the current site, page structure, search context, referral details, and interactions needed to identify useful extraction patterns."
+  },
+  "optInOptionsUsDataAiBody": {
+    "message": " - the requests you send to AI tools and the responses you get, including any attachments or images."
+  },
+  "optInOptionsUsDataAdsBody": {
+    "message": " - page elements you interact with while choosing tables, pagination controls, and repeating lists."
+  },
+  "optInOptionsUsPrivacyP1": {
+    "message": "Some page context may contain personal or sensitive information. Optional matching features therefore stay under your control and require your confirmation."
+  },
+  "optInOptionsUsPrivacyP2": {
+    "message": "This GitHub build disables inherited remote analytics and configuration services. Core table detection and export remain available in the browser."
+  },
+  "optInOptionsUsPrivacyP3": {
+    "message": "Use the cards below to review your choices. You can change optional features later from Settings."
+  },
+  "optInOptionsUsConsentActivity": {
+    "message": "I understand that enabled page-matching features may inspect the selected categories ({{dataCategories}}) to improve extraction on the current page."
+  },
+  "optInPopupUsPrivacyP1": {
+    "message": "Our extension now processes information about the requests you send to AI tools and the responses you get, including attachments or images (\"AI Data\") to make the Work Profile feature work."
+  },
+  "optInPopupUsPrivacyP2": {
+    "message": "Our goal is not to use this information to try to figure out sensitive details about you. That said, some of the AI Data could count as \"sensitive personal data\" under certain privacy laws and therefore we need your consent before we can collect or use it."
+  },
+  "optInPopupUsPrivacyP3": {
+    "message": "Inherited remote analytics and configuration services are disabled in this GitHub build."
+  },
+  "optInPopupUsPrivacyP4": {
+    "message": "Checking the box below means you're giving your consent to the collection, use, and disclosure described above. You can take that consent back at any time, visit our {{privacy}} for more details."
+  },
+
+  "optInOptionsNonUsIntro": {
+    "message": "Data Scraper by Tuhin reads the active page when you launch it so it can identify tables, repeating lists, and pagination controls. Optional matching features may use the following categories:"
+  },
+  "optInOptionsNonUsDataBrowsingBody": {
+    "message": " - information about websites and online services you visit, clickstream data, search queries and results, referring URLs, header information, and shopping and e-commerce activity."
+  },
+  "optInOptionsNonUsDataAiBody": {
+    "message": " - prompts, queries, uploaded files, attachments, images, and content generated by AI services."
+  },
+  "optInOptionsNonUsDataAdsBody": {
+    "message": " - advertisements displayed to you and your interactions with those advertisements, including impressions, clicks, and dismissals."
+  },
+  "optInOptionsNonUsPrivacyP1": {
+    "message": "Page content may incidentally contain personal or sensitive information. Review the selected categories ({{dataCategories}}) before enabling optional features."
+  },
+  "optInOptionsNonUsPrivacyP2": {
+    "message": "The inherited remote analytics and configuration integrations are disabled in this GitHub build."
+  },
+  "optInOptionsNonUsPrivacyP3": {
+    "message": "You can change optional features at any time through the extension's Settings panel."
+  },
+  "optInOptionsNonUsConsentAffiliatesTitle": {
+    "message": "Optional page matching"
+  },
+  "optInOptionsNonUsConsentAffiliatesBody": {
+    "message": "I want the extension to use the selected categories ({{dataCategories}}) when matching the current page with saved extraction patterns."
+  },
+  "optInOptionsNonUsConsentThirdPartiesTitle": {
+    "message": "Remote integrations"
+  },
+  "optInOptionsNonUsConsentThirdPartiesBody": {
+    "message": "Remote analytics and configuration integrations are disabled in this GitHub build. Core scraping does not require this option."
+  },
+  "optInNonUsDataCategoryBrowsing": {
+    "message": "Browsing Data"
+  },
+  "optInNonUsDataCategoryAd": {
+    "message": "Ad Data"
+  },
+  "optInNonUsDpoEmailText": {
+    "message": "github.com/TuhinSubhraSikdar"
+  },
+  "optInNonUsConsentChoose": {
+    "message": "Please choose how your data may be used"
+  },
+  "optInPopupNonUsIntroP1": {
+    "message": "Review the optional features below and choose which page-matching tools you want to enable. Core table detection and export remain available without them."
+  },
+  "optInPopupNonUsIntroP2": {
+    "message": "Data Scraper by Tuhin reads the active page only when needed to identify structured data and pagination controls."
+  },
+  "optInPopupNonUsPrivacyP2": {
+    "message": "Select only the optional page-matching features you want to use. You can change these choices later in Settings."
+  },
+
+  "optInFooter": {
+    "message": "By using this extension you agree to our {{terms}} and acknowledge our {{privacy}}."
+  },
+  "optInTermsLinkText": {
+    "message": "Terms of Services"
+  },
+  "optInPrivacyLinkText": {
+    "message": "Privacy Policy"
+  },
+  "optInHookBrand": {
+    "message": "Data Scraper by Tuhin"
+  },
+  "optInHookTitle": {
+    "message": "Faster scraping. Cleaner exports."
+  },
+  "optInHookBody": {
+    "message": "Use smart presets and site badges to find structured data with less manual setup."
+  },
+  "optInHookButton": {
+    "message": "Review features"
+  },
+  "optInHookClose": {
+    "message": "Close"
+  },
+
+  "popupAdvancedFeaturesDisabled": {
+    "message": "Presets Disabled"
+  },
+  "popupTerms": {
+    "message": "Terms"
+  },
+  "popupPrivacyPolicy": {
+    "message": "Privacy Policy"
+  },
+  "popupSettingsTitle": {
+    "message": "Settings"
+  },
+  "popupSettingsAdvancedFeatures": {
+    "message": "Presets"
+  },
+  "popupSettingsDescription": {
+    "message": "Suggest useful columns and pagination controls for compatible pages. You can still edit every column before exporting."
+  },
+  "popupSavedConfigEmpty": {
+    "message": "No matching preset for this page"
+  },
+  "popupSavedConfigPlaceholder": {
+    "message": "Presets"
+  },
+  "popupApply": {
+    "message": "Apply preset"
+  },
+  "popupEnable": {
+    "message": "Enable"
+  },
+  "popupPresetsInfoTooltipTitlePrefix": {
+    "message": "Scrape smarter with "
+  },
+  "popupPresetsInfoTooltipTitleHighlight": {
+    "message": "Presets"
+  },
+  "popupPresetsInfoTooltipBody1": {
+    "message": "Presets suggest the best columns for the page you're on, based on what other users typically scrape here."
+  },
+  "popupPresetsInfoTooltipBody2": {
+    "message": "We use the URLs you visit to match your current page to the most popular scraping patterns - no page content is read."
+  },
+  "popupPrivacyUpdateTitle": {
+    "message": "Setup reminder:"
+  },
+  "popupPrivacyUpdateBody": {
+    "message": "Review optional features anytime from Settings."
+  },
+  "popupWrongTableTooltipTitle": {
+    "message": "Switch detected table"
+  },
+  "popupWrongTableTooltipBody": {
+    "message": "Click to cycle through all tables and lists on the page until the highlighted selection matches what you want to scrape."
+  },
+  "popupNextButtonTooltipTitle": {
+    "message": "Scrape across multiple pages"
+  },
+  "popupNextButtonTooltipBody": {
+    "message": "Want more than one page of results? Click this, then click the \"Next\" or \"›\" button on the page — we’ll move through pages automatically and collect everything."
+  },
+  "popupSettingsSerpBadgesTitle": {
+    "message": "Show Badges"
+  },
+  "popupSettingsSerpBadgesDescription": {
+    "message": "Data Scraper by Tuhin can highlight compatible and relevant sites while you search on Google, so you know which sites are worth your time."
+  },
+  "popupSettingsWorkProfileTitle": {
+    "message": "AI Work Profile"
+  },
+  "popupSettingsWorkProfileDescription": {
+    "message": "Data Scraper by Tuhin AI Work Profile learns how you work the sites you scrape, the things you search and buy and turns it into ready-to-use context that makes any AI tool instantly understand your business."
+  },
+  "popupTabScraper": {
+    "message": "Scraper"
+  },
+  "popupTabAiWorkProfile": {
+    "message": "AI Work Profile"
+  },
+  "popupTabNewBadge": {
+    "message": "New"
+  },
+  "popupCreateAiProfile": {
+    "message": "Create my AI Profile"
+  },
+  "popupCreateAiProfileTooltipTitle": {
+    "message": "Create my AI Profile"
+  },
+  "popupCreateAiProfileTooltipBody": {
+    "message": "Data Scraper by Tuhin AI Work Profile learns how you work and turns it into ready-to-use context that makes any AI tool instantly understand your business."
+  },
+  "popupGeneratingAiProfile": {
+    "message": "Generating AI Profile"
+  },
+  "popupGeneratingAiProfileTooltipBody": {
+    "message": "Your AI Work Profile is being built. Keep browsing normally."
+  },
+  "popupCopyAiProfileTooltipBody": {
+    "message": "To copy this instantly - no need to open the extension!"
+  },
+  "popupWorkProfileIntroClose": {
+    "message": "Close"
+  },
+  "popupWorkProfileIntroTitlePrefix": {
+    "message": "Meet your "
+  },
+  "popupWorkProfileIntroTitleHighlight": {
+    "message": "AI Work Profile!"
+  },
+  "popupWorkProfileIntroBodyBold": {
+    "message": "Data Scraper by Tuhin AI Work Profile"
+  },
+  "popupWorkProfileIntroBody": {
+    "message": " learns how you work the sites you scrape, the things you search and buy and turns it into ready-to-use context that makes any AI tool instantly understand your business."
+  },
+  "popupWorkProfileIntroFeature1Title": {
+    "message": "Detects your workflow"
+  },
+  "popupWorkProfileIntroFeature1Body": {
+    "message": "Dropshipping, content creation, FBA, lead-gen — inferred from real activity."
+  },
+  "popupWorkProfileIntroFeature2Title": {
+    "message": "No setup required"
+  },
+  "popupWorkProfileIntroFeature2Body": {
+    "message": "Learns automatically from your activity"
+  },
+  "popupWorkProfileIntroFeature3Title": {
+    "message": "Keeps learning"
+  },
+  "popupWorkProfileIntroFeature3Body": {
+    "message": "Your profile updates as your work evolves"
+  },
+  "popupWorkProfileIntroFeature4Title": {
+    "message": "One-tap context for any AI"
+  },
+  "popupWorkProfileIntroFeature4Body": {
+    "message": "Copy a tailored profile into ChatGPT, Claude, Gemini, AI Work Profile or Perplexity."
+  },
+  "popupWorkProfileConsentActivity": {
+    "message": "Data Scraper by Tuhin can use my browsing, search, purchase, and AI chat activity to build my AI Work Profile profile. This data stays with Data Scraper by Tuhin and is only used to generate my personal profile."
+  },
+  "popupWorkProfileConsentPrivacyPreview": {
+    "message": "The AI Work Profile interface is disabled in this GitHub build. Core table detection, preview, pagination, copying, and file export remain available."
+  },
+  "popupWorkProfileConsentReadFullPrivacy": {
+    "message": "Read the full privacy terms"
+  },
+  "popupWorkProfileConsentShowLessPrivacy": {
+    "message": "Show less"
+  },
+  "popupWorkProfileConsentTermsPrefix": {
+    "message": "I have read and agreed to the "
+  },
+  "popupWorkProfileConsentTermsPrivacyLink": {
+    "message": "Privacy Policy"
+  },
+  "popupWorkProfileConsentTermsMiddle": {
+    "message": " and "
+  },
+  "popupWorkProfileConsentTermsTermsLink": {
+    "message": "Terms."
+  },
+  "popupWorkProfileActivate": {
+    "message": "Agree & Activate Work Profile"
+  },
+  "popupWorkProfileActivateHint": {
+    "message": "You can turn this feature off in Settings anytime."
+  },
+  "popupWorkProfileWelcomeTitlePrefix": {
+    "message": "Welcome to your "
+  },
+  "popupWorkProfileWelcomeTitleHighlight": {
+    "message": "AI Work Profile!"
+  },
+  "popupWorkProfileBuildingTitle": {
+    "message": "Building your AI Work Profile"
+  },
+  "popupWorkProfileBuildingSubtitle": {
+    "message": "We're learning how you work. Keep browsing normally."
+  },
+  "popupWorkProfileBuildingStatusTitle": {
+    "message": "Building your AI Work Profile"
+  },
+  "popupWorkProfileBuildingProgress": {
+    "message": "Analyzing your activity..."
+  },
+  "popupWorkProfileReadyStatusPrefix": {
+    "message": "Your AI Work Profile is "
+  },
+  "popupWorkProfileReadyStatusHighlight": {
+    "message": "Ready!"
+  },
+  "popupWorkProfileReadyProgress": {
+    "message": "Done"
+  },
+  "popupWorkProfileReadyCta": {
+    "message": "See My AI Work Profile"
+  },
+  "popupWorkProfileReadyHint": {
+    "message": "You can turn this feature off in Settings anytime."
+  },
+  "popupWorkProfileEmptyTitle": {
+    "message": "Not enough data"
+  },
+  "popupWorkProfileEmptySubtitle": {
+    "message": "We're still learning your workflows. Keep using Data Scraper by Tuhin and we'll generate your profile soon."
+  },
+  "popupWorkProfileFilledTitle": {
+    "message": "Your AI Work Profile"
+  },
+  "popupWorkProfileFilledUpdated": {
+    "message": "Last updated: $1"
+  },
+  "popupWorkProfileFilledFocusLabel": {
+    "message": "What you're working on"
+  },
+  "popupWorkProfileFilledWorkflowsLabel": {
+    "message": "Recurring workflows"
+  },
+  "popupWorkProfileFilledToolsLabel": {
+    "message": "Tools & platforms"
+  },
+  "popupWorkProfileFilledStyleLabel": {
+    "message": "Communication style"
+  },
+  "popupWorkProfileFilledPasteLabel": {
+    "message": "Your AI profile — paste into any AI"
+  },
+  "popupWorkProfileFilledPasteDescription": {
+    "message": "One standardized summary that works in ChatGPT, Claude, Gemini, AI Work Profile, Perplexity — any chat."
+  },
+  "popupWorkProfileFilledCopy": {
+    "message": "Copy my AI Profile"
+  },
+  "popupWorkProfileFilledCopied": {
+    "message": "Copied!"
+  },
+  "popupWorkProfileFilledCopyTooltipTitle": {
+    "message": "Copy My Work Profile"
+  },
+  "popupWorkProfileFilledCopyTooltipBody": {
+    "message": "Right-click any page and choose \"Copy My Work Profile\" to copy this instantly — no need to open the extension!"
+  },
+  "popupWorkProfileDebugToggle": {
+    "message": "Debug: toggle empty/filled"
+  },
+  "serpBadgeTooltip": {
+    "message": "This site works well with Data Scraper by Tuhin"
+  },
+  "serpBadgeInterestTooltip": {
+    "message": "Might be of interest to you"
+  }
+}
